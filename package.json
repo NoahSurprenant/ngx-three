@@ -1,5 +1,5 @@
 {
-  "name": "ngx-three",
+  "name": "@noahsurprenant/ngx-three",
   "version": "0.35.0",
   "scripts": {
     "ng": "ng",
